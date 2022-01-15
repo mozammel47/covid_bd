@@ -1,6 +1,6 @@
 # [The Covid19 Bangladesh Dynamic Dashboard](https://mozammel.shinyapps.io/covid_bd/)
 
-This dashboard provides an overview of the coronavirus COVID-19 epidemic and vaccination status in Bangladesh.
+This shiny dashboard provides an overview of the coronavirus COVID-19 epidemic and vaccination status in Bangladesh.
 This dashboard is built with R using the flexdashboard with shiny runtime and deployed on shiny server.
 Several R packages like plotly, dplyr, zoo were used to build the dashboard.
 
